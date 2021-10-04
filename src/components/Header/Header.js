@@ -20,7 +20,7 @@ const Header = () => {
     <Nav className="m-auto my-2 my-lg-0 Header-list"style={{ maxHeight: '100px' }}navbarScroll>
     <NavLink to="/home"activeStyle={{fontWeight: "bold",color: "gold"}}>home</NavLink>
     <NavLink to="/service"activeStyle={{fontWeight: "bold",color: "gold"}}>service</NavLink>
-    <NavLink to="/about"activeStyle={{fontWeight: "bold",color: "gold"}}>about</NavLink>
+    <NavLink to="/about"activeStyle={{fontWeight: "bold",color: "gold"}}>about us</NavLink>
     <NavLink to="/contact"activeStyle={{fontWeight: "bold",color: "gold"}}>contact</NavLink>
     </Nav>
     {/* header list hear end ====================================================================================*/}
