@@ -1,0 +1,136 @@
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 79vh;
+    color: #fff;
+    background-image: linear-gradient(#000000cf,#000000c4),url(https://ichef.bbci.co.uk/news/976/cpsprodpb/FCCE/production/_116781746_pupils_twopa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.home-all-content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+/* home left content */
+.home-left-content{
+    flex-basis: 50%;
+}
+.home-right-content{
+    flex-basis: 50%;
+}
+.home-left-content h1 {
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.home-left-content p {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 29px;
+    margin-top: 35px;
+    margin-bottom: 33px;
+}
+
+
+
+/* home-right-content */
+.home-right-content {
+    position: relative;
+    border-radius: 5%;
+    margin-bottom: 50px;
+    padding: 0 115px;
+    z-index: 1;
+}
+.home-right-content img{
+    width: 403px;
+}
+
+.home-right-content:after {
+    content: "";
+    position: absolute;
+    right: 9px;
+    top: 50px;
+    z-index: -1;
+    border: 3px solid gold;
+    border-radius: inherit;
+    height: 100%;
+    width: 60%;
+}
+.input{
+    padding: 15px 22px;
+    outline: none;
+    /* border: none; */
+}
+
+/* homeServiceCard */
+.homeServiceCard{
+    padding: 80px 0;
+   background-color: #0f0f11
+}
+
+/* partnar area */
+.partnar-area{
+    border-top: 1px solid rgba(255, 217, 0, 0.527);
+}
+.parnar-area-content img{
+    width: 90px ;
+}
+
+
+
+
+/* madia query start */
+@media (max-width:768px) {
+    .home{
+        height: 92vh;
+    }
+    .home-left-content{
+        flex-basis: 100%;
+        text-align: center;
+        padding: 0 9px;
+        margin-bottom: 32px;
+    }
+    .home-left-content h1{
+        font-size: 25px;
+    }
+    .home-left-content p{
+       margin-top: 28px;
+       margin-bottom: 24px;
+       font-size: 15px;
+    }
+    .home-right-content{
+        flex-basis: 100%;
+        margin-bottom: 40px;
+    }
+    /* right */
+    .home-right-content img {
+        width: 100%;
+        margin-left: -52px;
+
+    }
+    .home-right-content:after {
+        right: 18px;
+        
+    }
+
+/* partnar */
+.partnar-area{
+    padding: 15px 13px;
+    border-bottom: 1px solid #ffd70063;
+}
+.parnar-area-content img {
+    width: 87px;
+}
+
+/* service  */
+.service-title {
+ width: 100% !important;
+}
+
+
+}
+

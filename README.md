@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Skilify (A Online coding education platform)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live website ](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Information 1.......................
 
-In the project directory, you can run:
+### What website is this? Why would you visit this website?
+**Programming, a word you have heard at least once in your life. Whether you have heard of it or not, you can understand what programming is. Our website is basically an online coding education platform (SKILIFY) that teaches programming to students. And makes skilled programmers. Why would you visit a little? If you have a little love for programming in your mind then you can benefit in many ways through this website. If you want to know the details, please visit the website **
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Available Information 2 .......................
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+### What are the goals and objectives of this online coding education platform (SKILIFY)?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**The goal and purpose of this online coding education platform (SKILIFY) is to make the young generation proficient in coding education, and to create world class programmers, so that the life of every programmer is easy and beautiful. , For those who are brand new to programming, we are creating many opportunities to make the life of each program easier with the programming life from dawn to dusk. **
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Available Information 3 .......................
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### How you can benefit from this website ?
+**If you are a little addicted to programming, or your interest in programming works, you can contact us, we can make your programming life much easier and easier. Our website is also for beginners. The main goal is to create qualified programs from beginner to advanced. And creating, for those who are already living with programming from different parts of the world, and making a living, I started at dawn. If you want to move forward with programming then this website is the golden opportunity for you **
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

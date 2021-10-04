@@ -1,0 +1,106 @@
+.About-background{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+background-attachment: fixed;
+background-image: linear-gradient(#000000bf,#000000d9),url(https://emmetsoft.live/themeforest/educom/assets/img/banner/7.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position:center;
+padding: 150px 0;
+}
+
+.about-discription-all-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+.about-left-content{
+    flex-basis: 60%;
+}
+.about-right-content{
+    flex-basis: 40%;
+    padding: 0 40px;
+    color: #fff;
+}
+.right-content-img{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.about-discription{
+    padding: 80px 0;
+}
+.education-title {
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.PRINCIPAL-NAME {
+    margin-bottom: 35px;
+    margin-left: 15px;
+}
+
+.education {
+    margin-bottom: 32px
+}
+.education h3 {
+    color: #fff;
+}
+.education p {
+    color: #ddddddd7;
+
+}
+
+.catgory {
+    margin-bottom: 40px;
+}
+.catgory h6{
+    color: #fff;
+}
+.Experience {
+    margin-bottom: 40px;
+}
+.Experience h3{
+    color: #fff;
+}
+.Experience p{
+    color: #ddddddc7;
+}
+.right-content-discription {
+    padding: 0 16px;
+}
+
+.right-content-discription p {
+    text-align: justify;
+}
+.about-discription{
+   background-color: #0f0f11;
+}
+.PRINCIPAL-NAME h2 {
+    color: #fff;
+}
+
+.PRINCIPAL-NAME h5 {
+    color: #ddddddc7;
+}
+.Skills h3{
+    color: #fff;
+}
+.Skills p{
+    color: gold
+}
+
+@media (max-width:768px) {
+    .about-left-content{
+        flex-basis: 100%;
+        text-align: justify;
+    }
+    .about-right-content{
+        flex-basis: 100%;
+        margin-top: 40px;
+    }
+    .education-title {
+        text-align: center;
+        border-bottom: 3px solid gold;
+    }
+
+}

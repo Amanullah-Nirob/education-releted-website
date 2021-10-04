@@ -1,0 +1,10 @@
+.service-title {
+    text-align: center;
+    width: 437px;
+    margin: auto;
+    margin-bottom: 36px;
+    padding: 20px 29px;
+    background: rgba(255, 217, 0, 0.267);
+    border-radius: 5px;
+    color: gold;
+}
