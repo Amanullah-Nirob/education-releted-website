@@ -1,6 +1,6 @@
 # Skilify (A Online coding education platform)
 
-This project was bootstrapped with [Live website ](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live website ](https://agitated-sinoussi-4ad0a7.netlify.app).
 
 ## Available Information 1.......................
 
