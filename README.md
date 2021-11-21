@@ -1,6 +1,6 @@
 # Skilify (A Online coding education platform)
 
- Skilify [Live website demo ](https://agitated-sinoussi-4ad0a7.netlify.app).
+ Skilify [Live website demo ](https://agitated-sinoussi-4ad0a7.netlify.app)
 
 ## Available Information 1
 
@@ -8,7 +8,7 @@
 **Programming, a word you have heard at least once in your life. Whether you have heard of it or not, you can understand what programming is. Our website is basically an online coding education platform (SKILIFY) that teaches programming to students. And makes skilled programmers. Why would you visit a little? If you have a little love for programming in your mind then you can benefit in many ways through this website. If you want to know the details, please visit the website **
 
 
-## Available Information 2 
+# Available Information 2 
 
 
 ### What are the goals and objectives of this online coding education platform (SKILIFY)?
